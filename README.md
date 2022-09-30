@@ -1,6 +1,7 @@
 # :wave: The Basics of GitHub 
 
 Git is awesome!
+Let's learn git!
 
 ## 🤓 Course overview and learning outcomes 
 
